@@ -1,6 +1,7 @@
-## Comments
+## This program aims to calculate the inverse matrix and stores the result in your cache. 
+## Thus, if requested your calculation again there is no time wasted processing, because your answer will be cached.
 
-## Comments 2
+## This first function 
 
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
